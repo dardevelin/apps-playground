@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<info>
+	<id>movies</id>
+	<name>Movies</name>
+	<description>A Player for movies</description>
+	<licence>AGPL</licence>
+	<author>Frank Karlitschek</author>
+	<require>4</require>
+	<shipped>true</shipped>
+</info>
